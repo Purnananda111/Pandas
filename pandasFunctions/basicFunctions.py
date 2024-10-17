@@ -1,7 +1,7 @@
 import pandas as pd
 
 
-sales_report = pd.read_csv('sales.csv')
+sales_report = pd.read_csv('../mathematical/sales.csv')
 
 # Complete information about the dataset
 print(sales_report.info())
