@@ -1,6 +1,6 @@
 import pandas as pd
 
-sales_report = pd.read_csv('sales.csv')
+sales_report = pd.read_csv('../operators/sales.csv')
 #to find out the shape of the dataframe
 
 print("Shape of the dataframe ", sales_report.shape)
