@@ -1,5 +1,5 @@
 import pandas as pd
-a = pd.read_csv('sales.csv')
+a = pd.read_csv('../operators/sales.csv')
 # print(a)
 # print(a.shape)  # to get no of rows and columns
 # print(a.info()) # give detail information about the data

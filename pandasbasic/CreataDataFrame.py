@@ -17,3 +17,14 @@ new_details = pd.DataFrame([["sairam",26,"Warangal", "LPU"],["Shivaprasad",23,"C
 
 details = pd.concat([details, new_details],ignore_index=True)
 print(details)
+
+df = pd.DataFrame({"Name":["Akhila","purna","saihram"],
+                   "age":[20,21,22]})
+print(df)
+df.loc[3] = ["Balaji",24]
+# print("After adding new row",df)
+df["Location"] =["gur","Char","Wan","hyd"]
+# print("After adding a new column", df)
+new_details = pd.DataFrame([["sairam",26,"Warangal"],["Shivaprasad",23,"Cherlagudipadu"]],columns=["Name","age","Location"])
+df =  pd.concat([df,new_details],ignore_index=True)
+print(df)

@@ -1,0 +1,10 @@
+import pandas as pd
+detail_data = pd.read_csv("Customer.csv")
+print("overview of the data")
+print(detail_data.head())
+print("Data types of data")
+print(detail_data.info())
+print("Total null values")
+print(detail_data.isnull().sum())
+print("statical of the data")
+print(detail_data.describe())

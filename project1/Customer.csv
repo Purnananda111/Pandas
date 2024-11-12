@@ -1,0 +1,21 @@
+customer_id,name,age,gender,location,purchase_date,product_id,product_category,price,quantity
+1,John Doe,28,Male,New York,2024-01-15,101,Electronics,199.99,1
+2,Jane Smith,34,Female,Los Angeles,2024-01-17,102,Clothing,49.99,2
+3,Mary Johnson,23,Female,Chicago,2024-02-10,103,Beauty,19.99,3
+4,James Williams,45,Male,Houston,2024-02-20,104,Grocery,5.99,10
+5,Patricia Brown,38,Female,Unknown,2024-03-01,105,Sports,79.99,1
+6,Robert Jones,27,Male,Miami,2024-03-15,106,Home,24.99,2
+7,Jennifer Miller,60,Female,Dallas,2024-03-22,107,Automotive,39.99,1
+8,Michael Davis,22,Male,New York,2024-04-05,108,Toys,9.99,5
+9,Linda Garcia,40,Female,Chicago,2024-04-18,109,Electronics,499.99,1
+10,William Martinez,35,Male,San Francisco,2024-04-25,110,Clothing,59.99,3
+11,Susan Robinson,29,Female,Miami,2024-05-05,111,Beauty,15.99,4
+12,Daniel Clark,42,Male,Unknown,2024-05-15,112,Electronics,249.99,1
+13,Lisa Rodriguez,53,Female,Boston,2024-05-20,113,Health,34.99,2
+14,Paul Lewis,31,Male,Seattle,2024-06-01,114,Home,29.99,1
+15,Karen Walker,24,Female,Los Angeles,2024-06-18,115,Beauty,19.99,3
+16,John Hall,36,Male,Chicago,2024-06-25,116,Sports,89.99,2
+17,Jessica Allen,30,Female,Houston,2024-07-02,117,Electronics,199.99,1
+18,Charles Young,49,Male,Miami,2024-07-10,118,Automotive,59.99,1
+19,Amy King,58,Female,Dallas,2024-07-20,119,Health,24.99,3
+20,Joshua Scott,21,Male,Seattle,2024-08-01,120,Toys,12.99,2

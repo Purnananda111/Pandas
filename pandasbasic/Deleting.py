@@ -1,5 +1,3 @@
-from operator import index
-
 import pandas as pd
 
 sales_report =  pd.read_csv("../operators/sales.csv")

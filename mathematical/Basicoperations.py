@@ -22,5 +22,7 @@ sample = pd.DataFrame([-1.1,2,-1]).abs();
 print("it gives absolute values ",sample)
 #round() -- It rounds the values in the DataFrame to the specified number of decimal places.
 data = pd.DataFrame({'A': [1.234, 2.456, 3.789], 'B': [4.567, 5.123, 6.987]})
-print(data.round(1))  # Round to 1 decimal place
+print(data.round(2))  # Round to 1 decimal place
+
+
 
